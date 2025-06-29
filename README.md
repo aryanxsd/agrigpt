@@ -1,22 +1,22 @@
-# 🌾 AgriGPT: Intelligent Voice Assistant for Precision Farming
+# AgriGPT: Intelligent Voice Assistant for Precision Farming
 
 AgriGPT is a multilingual, voice-enabled agricultural assistant designed to empower rural farmers with AI-based insights. It integrates crop recommendation, plant disease diagnosis, and market price analysis into a single voice-based chatbot that works with Indian regional languages like Hindi, Tamil, and Kannada.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🧠 **LLM-Powered**: Uses a central language model with function-calling to route user queries to specialized tools.
-- 🌱 **Crop Recommendation**: Suggests suitable crops, fertilizers, and irrigation based on soil and weather.
-- 🐛 **Disease Diagnosis**: Classifies plant diseases from natural language symptom descriptions.
-- 🏪 **Market Advisor**: Recommends top nearby APMC mandis for crop sale based on price and distance.
-- 🗣️ **Multilingual Support**: Accepts speech input in Indian languages and responds in the same language.
-- 💬 **Voice Chatbot UI**: Lightweight Streamlit interface for real-time interaction.
-- 🌐 **Offline-Ready**: Market and model data can be preloaded for areas with low or no connectivity.
+- **LLM-Powered**: Uses a central language model with function-calling to route user queries to specialized tools.
+-  **Crop Recommendation**: Suggests suitable crops, fertilizers, and irrigation based on soil and weather.
+-  **Disease Diagnosis**: Classifies plant diseases from natural language symptom descriptions.
+-  **Market Advisor**: Recommends top nearby APMC mandis for crop sale based on price and distance.
+-  **Multilingual Support**: Accepts speech input in Indian languages and responds in the same language.
+-  **Voice Chatbot UI**: Lightweight Streamlit interface for real-time interaction.
+-  **Offline-Ready**: Market and model data can be preloaded for areas with low or no connectivity.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 AgriGPT/
@@ -39,7 +39,7 @@ AgriGPT/
 
 ---
 
-## 🛠️ Setup Instructions
+## 🛠 Setup Instructions
 
 1. **Install Dependencies**
     ```bash
@@ -57,7 +57,7 @@ AgriGPT/
 
 ---
 
-## 📚 Models Used
+##  Models Used
 
 - `RandomForestClassifier` for crop recommendation
 - `DistilBERT` fine-tuned for symptom-to-disease classification
@@ -66,7 +66,7 @@ AgriGPT/
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Fully offline Raspberry Pi deployment
 - Visual input for plant images
@@ -75,7 +75,7 @@ AgriGPT/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Pull requests are welcome! For major changes, please open an issue first.
 
