@@ -1,0 +1,9 @@
+streamlit
+langchain
+sklearn
+transformers
+speechrecognition
+gtts
+openai
+pandas
+geopy
